@@ -1,0 +1,5 @@
+django==4.2.7
+djangorestframework==3.14.0
+python-dotenv==1.0.1
+reportlab==4.0.9
+django_moncash==2.6.0

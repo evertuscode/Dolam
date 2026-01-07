@@ -1,0 +1,7 @@
+Dolam/
+├── .gitignore      ← ✅ HERE (same level as manage.py)
+├── manage.py
+├── requirements.txt
+├── README.md
+├── dolam_payments/
+├── config/
